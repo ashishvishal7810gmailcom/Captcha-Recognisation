@@ -9,6 +9,8 @@ The model is names as new_emnist_model.sav. you have to only run "gui_for_captch
 ```
 $python3 gui_for_captcha.py
 ```
+RUn the above code in the root directory of the project
+
 # create executables file of code
 Simply type " python setup_.py build " in terminal to make executable files.
 And finally with the help of NSIS you can create a desktop icon for this code.
